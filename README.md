@@ -15,3 +15,5 @@ For my final project, I used a dataset(available in Kaggle) that mainly containe
 I tried to simulate as much as possible the workflow data analysts and data scientists use inside a company. For this, I followed many steps, starting by performing an ETL(extract, transform, load) pipeline, selecting and saving the supervised machine learning model that better fitted my dataset while also constructing a Tableau Dashboard for a better visualization of my results, and as an Extra, implementing a Flask app that clearly shows how the medical specialty predictions would be performed.
 
 Dataset: https://www.kaggle.com/tboyle10/medicaltranscriptions?select=mtsamples.csv
+Tableau Dashboard: https://public.tableau.com/profile/joan.concha#!/vizhome/Predicting-medical-specialties/Final_product
+Note: The prediction performed in this Dashboard is just an example. Since the Flask app runs only locally, it is not available.
