@@ -14,4 +14,4 @@ Nowadays, and specially in the current situation every country faces due to COVI
 For my final project, I used a dataset(available in Kaggle) that mainly contained medical transcriptions and the respective medical specialty for approximately 6000 patients. The main objective was to implement a supervised machine learning model that predicts the medical specialty to which each patient belongs, based on the medical transcriptions. 
 I tried to simulate as much as possible the workflow data analysts and data scientists use inside a company. For this, I followed many steps, starting by performing an ETL(extract, transform, load) pipeline, selecting and saving the supervised machine learning model that better fitted my dataset while also constructing a Tableau Dashboard for a better visualization of my results, and as an Extra, implementing a Flask app that clearly shows how the medical specialty predictions would be performed.
 
-
+Dataset: https://www.kaggle.com/tboyle10/medicaltranscriptions?select=mtsamples.csv
