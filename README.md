@@ -21,7 +21,12 @@ Project Files:
 * FP_model: NLP and Supervised Machine Learning model implementation. Random Forest and Naive Bayes model performance was tested.  
 * FP_merged-data: Merge of the cleaned and megaclass datasets, which was used for the implementation of the Tableau dashboard.  
 * python-SQL-connector and sql-import files: Used to import and export the datasets from MySQL.  
-
+  
+Flask files:
+* Flask_app: Flask app code, running locally.
+* Helper: Loading the saved model from the pickle files.
+* Templates folder: HTML code.  
+* clf and tfidf: pickle files, saved supervised machine learning model, ready for predictions.
 ## URLs
 * Dataset: https://www.kaggle.com/tboyle10/medicaltranscriptions?select=mtsamples.csv
 * Tableau Dashboard: https://public.tableau.com/profile/joan.concha#!/vizhome/Predicting-medical-specialties/Final_product  
