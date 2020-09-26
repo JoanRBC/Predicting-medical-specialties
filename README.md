@@ -16,6 +16,6 @@ I tried to simulate as much as possible the workflow data analysts and data scie
 
 ## URLs
 * Dataset: https://www.kaggle.com/tboyle10/medicaltranscriptions?select=mtsamples.csv
-* Tableau Dashboard: https://public.tableau.com/profile/joan.concha#!/vizhome/Predicting-medical-specialties/Final_product
+* Tableau Dashboard: https://public.tableau.com/profile/joan.concha#!/vizhome/Predicting-medical-specialties/Final_product  
   Note: The prediction performed in this Dashboard is just an example. Since the Flask app runs only locally, it is not available.
 
