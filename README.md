@@ -14,6 +14,14 @@ Nowadays, and specially in the current COVID-19 pandemic situation every country
 For my final project, I used a dataset (available in Kaggle) that mainly contained medical transcriptions and the respective medical specialty for approximately 6000 patients. The main objective was to implement a supervised machine learning model for Natural Language Processing (NLP), that predicts the medical specialty to which each patient belongs based on the medical transcriptions. 
 I tried to simulate as much as possible the workflow data analysts and data scientists follow inside a company. For this, I followed many steps, starting by performing an ETL (extract, transform, load) pipeline, selecting and saving the supervised machine learning model that better fitted my dataset, while also constructing a Tableau Dashboard for a better visualization of my results, and as an Extra, implementing a Flask app that clearly shows how the medical specialty predictions would be performed.
 
+## Files
+
+Project Files:
+* FP_cleanup: Cleaning the dataset, fully ready for the model.  
+* FP_model: NLP and Supervised Machine Learning model implementation. Random Forest and Naive Bayes model performance was tested.  
+* FP_merged-data: Merge of the cleaned and megaclass datasets, which was used for the implementation of the Tableau dashboard.  
+* python-SQL-connector and sql-import files: Used to import and export the datasets from MySQL.  
+
 ## URLs
 * Dataset: https://www.kaggle.com/tboyle10/medicaltranscriptions?select=mtsamples.csv
 * Tableau Dashboard: https://public.tableau.com/profile/joan.concha#!/vizhome/Predicting-medical-specialties/Final_product  
