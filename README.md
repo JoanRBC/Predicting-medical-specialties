@@ -5,7 +5,7 @@
 Machine learning in healthcare is one such area which is seeing gradual acceptance in the healthcare industry. Many companies are entering the field not because they want to, but because they have to, one of many examples available is the Google medical AI for disease detection (https://www.technologyreview.com/2020/04/27/1000658/google-medical-ai-accurate-lab-real-life-clinic-covid-diabetes-retina-disease/).  
 The top three machine learning applications for healthcare currently are:  
 
--Diagnoses of diseases considered hard to diagnose,  
+* Diagnoses of diseases considered hard to diagnose,  
 -Early drug discovery process and manufacturing, and  
 -Medical imaging diagnosis. 
 
