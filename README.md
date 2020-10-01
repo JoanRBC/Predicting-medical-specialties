@@ -18,8 +18,8 @@ I tried to simulate as much as possible the workflow data analysts and data scie
 
 Project Files:
 * FP_cleanup: Cleaning the dataset, fully ready for model implementation. Two resulting datasets:  
-** fully cleaned dataset, considering the fourty medical specialties.  
-** dataset considering a total of eight medical specialties (a megaclass containing grouped medical specialties was created).   
+-Fully cleaned dataset, considering the fourty medical specialties.  
+-Dataset considering a total of eight medical specialties (a megaclass containing grouped medical specialties was created).   
 * FP_model: NLP and Supervised Machine Learning model implementation. Random Forest and Naive Bayes model performance was tested.  
 * FP_merged-data: Merge of the cleaned and megaclass datasets, which was used for the implementation of the Tableau dashboard.  
 * python-SQL-connector and sql-import files: Used to import and export the datasets from MySQL.  
