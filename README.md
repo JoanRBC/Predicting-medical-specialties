@@ -20,7 +20,7 @@ Project Files:
 * FP_cleanup: Cleaning the dataset, fully ready for model implementation. Two resulting datasets:  
 -Fully cleaned dataset, considering the fourty medical specialties.  
 -Dataset considering a total of nine medical specialties (the first eight with the highest number of transcriptions were kept, and the remaining medical specialties were grouped as a megaclass).   
-* FP_model: Supervised Machine Learning model implementation. Random Forest and Naive Bayes model performance was tested.  
+* FP_model: NLP and Supervised Machine Learning model implementation. Random Forest and Naive Bayes model performance was tested.  
 * FP_merged-data: Merge of the cleaned and megaclass datasets into a unique dataset, used for the implementation of the Tableau dashboard.  
 * python-SQL-connector and sql-import files: Used to import and export the datasets.  
   
